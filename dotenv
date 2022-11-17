@@ -1,0 +1,4 @@
+MONGODB_URI=mongodb+srv://tivi:CCC1ecrfGpccZvct@cluster0.1x4ks.mongodb.net/noteApp?retryWrites=true&w=majority
+MONGODB_URI_EX=mongodb+srv://tivi:CCC1ecrfGpccZvct@cluster0.1x4ks.mongodb.net/personApp2?retryWrites=true&w=majority
+PORT=3001
+
